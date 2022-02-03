@@ -10,7 +10,6 @@ function App() {
       <Switch>
         <Route path="/" exact />
       </Switch>
-
     </Router>
     </>
   );
